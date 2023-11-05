@@ -3,11 +3,11 @@
   <title>Thanatos&#39;s blog</title>
   
   <subtitle>hello</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://thanatos932.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://thanatos932.github.io/"/>
   <updated>2023-11-05T05:34:58.675Z</updated>
-  <id>http://example.com/</id>
+  <id>http://thanatos932.github.io/</id>
   
   <author>
     <name>Thanatos</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/undefined/4a17b156.html"/>
-    <id>http://example.com/undefined/4a17b156.html</id>
+    <link href="http://thanatos932.github.io/undefined/4a17b156.html"/>
+    <id>http://thanatos932.github.io/undefined/4a17b156.html</id>
     <published>2023-11-05T03:23:23.779Z</published>
     <updated>2023-11-05T05:34:58.675Z</updated>
     
