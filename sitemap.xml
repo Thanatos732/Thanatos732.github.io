@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://thanatos932.github.io/undefined/4a17b156.html</loc>
+    <loc>http://thanatos732.github.io/undefined/e109e853.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://thanatos732.github.io/undefined/4a17b156.html</loc>
     
     <lastmod>2023-11-05</lastmod>
     
@@ -12,8 +21,8 @@
   
 
   <url>
-    <loc>http://thanatos932.github.io/</loc>
-    <lastmod>2023-11-11</lastmod>
+    <loc>http://thanatos732.github.io/</loc>
+    <lastmod>2023-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
