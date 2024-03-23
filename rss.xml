@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>galgame</title>
-        <subtitle>好</subtitle>
+        <title>Thanatos</title>
+        <subtitle>这是一个博客</subtitle>
         <icon>http://thanatos732.github.io/assets/favicon.ico</icon>
         <link>http://thanatos732.github.io</link>
         <author>
           <name>Thanatos</name>
         </author>
         <description>没有</description>
-        <language>en</language>
+        <language>zh-CN</language>
         <pubDate>Sat, 23 Mar 2024 19:20:35 +0800</pubDate>
         <lastBuildDate>Sat, 23 Mar 2024 19:20:35 +0800</lastBuildDate>
         <item>
@@ -27,6 +27,14 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://thanatos732.github.io/2024/03/23/%E6%B5%8B%E8%AF%95/</guid>
+            <title>测试</title>
+            <link>http://thanatos732.github.io/2024/03/23/%E6%B5%8B%E8%AF%95/</link>
+            <pubDate>Sat, 23 Mar 2024 19:03:19 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;没什么好说的&lt;/p&gt;
  ]]></description>
         </item>
         <item>

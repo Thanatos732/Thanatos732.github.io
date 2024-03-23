@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://thanatos732.github.io</id>
-    <title>galgame</title>
-    <subtitle>好</subtitle>
+    <title>Thanatos</title>
+    <subtitle>这是一个博客</subtitle>
     <icon>http://thanatos732.github.io/assets/favicon.ico</icon>
     <link href="http://thanatos732.github.io" />
     <author>
@@ -25,6 +25,14 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
 </content>
         <updated>2024-03-23T11:20:35.410Z</updated>
+    </entry>
+    <entry>
+        <id>http://thanatos732.github.io/2024/03/23/%E6%B5%8B%E8%AF%95/</id>
+        <title>测试</title>
+        <link rel="alternate" href="http://thanatos732.github.io/2024/03/23/%E6%B5%8B%E8%AF%95/"/>
+        <content type="html">&lt;p&gt;没什么好说的&lt;/p&gt;
+</content>
+        <updated>2024-03-23T11:03:19.000Z</updated>
     </entry>
     <entry>
         <id>http://thanatos732.github.io/2024/03/23/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E5%BA%93api/</id>
