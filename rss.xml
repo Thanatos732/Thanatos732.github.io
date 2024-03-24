@@ -2,15 +2,15 @@
 <rss version="2.0">
     <channel>
         <title>Thanatos</title>
-        <subtitle>这是一个博客</subtitle>
+        <subtitle>正经人谁玩gal呐</subtitle>
         <icon>http://thanatos732.github.io/assets/favicon.ico</icon>
         <link>http://thanatos732.github.io</link>
         <author>
           <name>Thanatos</name>
         </author>
-        <description>没有</description>
+        <description>这么活着太累了</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 24 Mar 2024 14:26:20 +0800</pubDate>
-        <lastBuildDate>Sun, 24 Mar 2024 14:26:20 +0800</lastBuildDate>
+        <pubDate>Sun, 24 Mar 2024 15:07:55 +0800</pubDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:07:55 +0800</lastBuildDate>
     </channel>
 </rss>
