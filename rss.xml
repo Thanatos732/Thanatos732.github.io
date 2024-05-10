@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Thanatos</title>
+        <title>不玩嘎啦</title>
         <subtitle>正经人谁玩gal呐</subtitle>
         <icon>http://thanatos732.github.io/assets/favicon.ico</icon>
         <link>http://thanatos732.github.io</link>
@@ -10,7 +10,7 @@
         </author>
         <description>这么活着太累了</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 24 Mar 2024 15:07:55 +0800</pubDate>
-        <lastBuildDate>Sun, 24 Mar 2024 15:07:55 +0800</lastBuildDate>
+        <pubDate>Sun, 24 Mar 2024 15:43:24 +0800</pubDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:43:24 +0800</lastBuildDate>
     </channel>
 </rss>
