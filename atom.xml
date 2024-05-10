@@ -27,7 +27,7 @@
 即整个牌型没有任何幺九牌 (一筒、一索、一万、九筒、九索、九万、所有风牌和三元牌)&lt;br /&gt;
  同国标麻将的断幺。&lt;br /&gt;
 非门前清下的断幺九叫 “食断”，在不承认 “食断” 的场合为门前清限定。&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://raw.githubusercontent.com/Thanatos732/photosbed.img/205fdfd7c412a654f6cf5d18306a7088e1aa7f25/20190214132705_87105.jpg&#34; class=&#34;&#34; width=&#34;600&#34; height=&#34;600&#34; title=&#34;点击查看大图:vi&amp;#x2F;vim-cheat-sheet&#34;&gt;&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://raw.githubusercontent.com/Thanatos732/photosbed.img/205fdfd7c412a654f6cf5d18306a7088e1aa7f25/20190214132705_87105.jpg&#34; class=&#34;&#34; width=&#34;1200&#34; height=&#34;600&#34; title=&#34;点击查看大图:vi&amp;#x2F;vim-cheat-sheet&#34;&gt;&lt;/p&gt;
 &lt;p&gt;三色同顺&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;同时有由筒、索、万组成的同一组数字的顺子(例：一二三筒、一二三索、一二三万)
 非门前清为一翻。
@@ -72,7 +72,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;混一色&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 由一种花色的数牌和字牌组成的和牌。
-非门前清为二翻。
+ 非门前清为二翻。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;纯全带幺九&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 整个牌型所有顺子、刻子、杠子、雀头都包含最少一只幺九牌，且无字牌。
@@ -80,7 +80,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;二杯口&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 两组一杯口。
-门前清限定，不计七雀头。
+ 门前清限定，不计七雀头。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;荒牌满贯&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; (作和牌或荒牌视规则而定)荒牌荒牌时，打出的牌全为幺九牌，且不可被吃、碰、杠。
@@ -89,9 +89,9 @@
  6 翻，非门前清为五翻&lt;/p&gt;
 &lt;p&gt;人和&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 牌局开始时，闲家第一次摸牌前以他家打出的第一
-只牌食胡。
+ 只牌食胡。
+ 门前清限定
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;门前清限定&lt;/p&gt;
 &lt;p&gt;大三元&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 3组三元牌为刻子或杠子。
 &lt;/code&gt;&lt;/pre&gt;
@@ -100,7 +100,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;国士无双&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 全数为单只幺九牌，第14只则可为其中一只幺九牌。门前清限定
-别名十三幺(香港麻将)
+ 别名十三幺(香港麻将)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;字一色&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 全个牌型只有风牌和三元牌。
@@ -110,28 +110,29 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;绿一色&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 整个牌型只包含二索、三索、四索、六索、八索及发财等绿色的牌。
+ 例：3只二索、三索、四索、3只六索、3只八索、3只发财
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;例：3 只二索、三索、四索、3 只六索、3 只八索、3 只发财&lt;/p&gt;
 &lt;p&gt;清老头&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; (清老头、チンロートー/チンラオトウ/チンロー)，即整个牌型所有刻子、杠子、雀头都是幺九牌(风牌及三元牌除外)。
-别名清幺(香港麻将)
-同国标麻将的清幺九
+ 别名清幺(香港麻将)
+ 同国标麻将的清幺九
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;天和&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  牌局开始时，庄家随即自摸。门前清限定
-  如果是利用最初的14张牌开杠之后岭上开花的话则不成立。
+&lt;pre&gt;&lt;code&gt; 牌局开始时，庄家随即自摸。门前清限定
+ 如果是利用最初的14张牌开杠之后岭上开花的话则不成立。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;地和&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   牌局开始时，闲家摸入的第一只牌便自摸。门前清限定
-   如果在第一次自摸之前，有吃、碰、杠发生的话则不成立。
+&lt;pre&gt;&lt;code&gt; 牌局开始时，闲家摸入的第一只牌便自摸。门前清限定
+ 如果在第一次自摸之前，有吃、碰、杠发生的话则不成立。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;九莲宝灯&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  由一种花色序数牌子按1112345678999组成的特定牌型
-  门前清限定
+&lt;pre&gt;&lt;code&gt; 由一种花色序数牌子按1112345678999组成的特定牌型
+ 门前清限定
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;四杠子&lt;br /&gt;
-杠 4 次后胡牌&lt;br /&gt;
-别名十八罗汉 (香港麻将)，同国标麻将的四杠&lt;/p&gt;
+&lt;p&gt;四杠子&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; 杠4次后胡牌
+ 别名十八罗汉(香港麻将)，同国标麻将的四杠
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;纯正九莲宝灯&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 九莲宝灯听九面
  同国标麻将的九莲宝灯
