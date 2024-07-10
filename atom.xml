@@ -13,18 +13,18 @@
         <id>http://thanatos732.github.io/2024/07/10/galgameCG%E7%9A%84%E6%8F%90%E5%8F%96/</id>
         <title>galgameCG的提取</title>
         <link rel="alternate" href="http://thanatos732.github.io/2024/07/10/galgameCG%E7%9A%84%E6%8F%90%E5%8F%96/"/>
-        <content type="html">&lt;h2 id=&#34;1garbro&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1garbro&#34;&gt;#&lt;/a&gt; 1.Garbro&lt;/h2&gt;
+        <content type="html">&lt;h1 id=&#34;1garbro&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1garbro&#34;&gt;#&lt;/a&gt; 1.Garbro&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/morkt/GARbro&#34;&gt;Garbro&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;用 Garbro 的话其实大部分包都能解了，而且非常的简单无脑，这里我以 9-nine 为例&lt;/p&gt;
 &lt;p&gt;在软件中找到处于游戏目录中的 evimage.xp3 文件&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/1.png&#34; alt=&#34;evimage.xp3&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;如果你的游戏是未解包的状态的话需要进行解码，也就是在列表中找到游戏的名字。&lt;strong&gt;（这里需要知道游戏的罗马音，可以萌娘或者 wiki）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/2.png&#34;&gt;https://cdn.jsdelivr.net/gh/Thanatos732/photos/2.png&lt;/a&gt;&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;随后便可以找到解包后的 cg 了。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/3.png&#34;&gt;https://cdn.jsdelivr.net/gh/Thanatos732/photos/3.png&lt;/a&gt;&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;可以按 F4 保存到相应路径。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;如果你想解包的游戏在列表中未找到的话，可以先寻找到与其同社团的作品进行尝试，一般来说其加密方式很可能相同。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2krkrextract&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2krkrextract&#34;&gt;#&lt;/a&gt; 2.KRKRExtract&lt;/h2&gt;
+&lt;h1 id=&#34;2krkrextract&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2krkrextract&#34;&gt;#&lt;/a&gt; 2.KRKRExtract&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/xmoezzz/KrkrExtract&#34;&gt;KRKRExtract&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;KRKRExtract 是专门对付 xp3 文件的，我们需要将两个 dll 复制到游戏目录下，然后将&lt;strong&gt;原版游戏&lt;/strong&gt;的 exe 文件拖动到 KRKRExtract 的 exe 上执行。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710094645.png&#34; alt=&#34;将两个dll复制到游戏目录&#34; /&gt;&lt;/p&gt;
@@ -32,21 +32,21 @@
 &lt;p&gt;执行以后，会出现如下界面&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710103326.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;我们需要将需要解包的文件拖动到 Original Archive 中&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710103530.png&#34;&gt;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710103530.png&lt;/a&gt;&amp;quot;  &amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710103530.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;随后解包过后的文件会存储在游戏目录下的 KrkrExtract_Output 文件夹里，当然，这时解包出来的图片格式都是未转换过的，如果无法打开，可以用转码工具进行转码。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此工具只适用于旧 krkr 的加密方式，新 krkr 会提取失败&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;3grv&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3grv&#34;&gt;#&lt;/a&gt; 3.GRV&lt;/h2&gt;
+&lt;h1 id=&#34;3grv&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3grv&#34;&gt;#&lt;/a&gt; 3.GRV&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://grviewer.com/&#34;&gt;GRV&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;这是一个网站&lt;/p&gt;
 &lt;p&gt;可以解包.rpa 后缀的文件，这里我以我梦见了她为例&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110309.png&#34;&gt;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110309.png&lt;/a&gt;&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110309.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;将 archive.rpa 文件拖入网站&lt;/p&gt;
 &lt;p&gt;找到 images 中的 cg 文件夹&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110452.png&#34;&gt;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110452.png&lt;/a&gt;&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110452.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;随后便能看到 cg 了&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110554.png&#34;&gt;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110554.png&lt;/a&gt;&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110554.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;此时我们可以通过 File 下的 Export 进行批量下载&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110649.png&#34;&gt;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110649.png&lt;/a&gt;&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.jsdelivr.net/gh/Thanatos732/photos/20240710110649.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这只是一个演示如何使用工具提取 CG 的文章，并不是专门的逆向教程&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本文中所提到的软件均为开源&lt;/strong&gt;&lt;/p&gt;
 </content>
