@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Thanatos的博客 | Thanatos's blog",
+    "home_page_url": "https://Thanatos732.github.io/",
+    "feed_url": "https://Thanatos732.github.io/feed.json",
+    "description": "这么活着太累了",
+    "icon": "https://cdn.jsdelivr.net/gh/Thanatos732/photos/avatar.png",
+    "author": {
+        "name": "Thanatos",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p><strong>这只是一个演示如何使用工具提取CG的文章，并不是专门的逆向教程</strong></p>\n<p><strong>本文中所提到的软件均为开源</strong></p>\n<h1>Garbro</h1>\n<p>[Garbro](<a href=\"https://github.com/morkt/\">https://github.com/morkt/</a></p>\n<br/><p>访问 <a href=\"https://Thanatos732.github.io/posts/galgameCG的提取\" target=\"_blank\">https://Thanatos732.github.io/posts/galgameCG的提取</a> 阅读全文。</p>",
+            "url": "https://Thanatos732.github.io/posts/galgameCG的提取",
+            "title": "galgameCG的提取",
+            "date_modified": "2024-07-10T11:23:02.000Z",
+            "date_published": "2024-12-12T14:56:29.180Z",
+            "author": {
+                "name": "Thanatos",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

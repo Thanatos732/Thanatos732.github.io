@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Thanatos732.github.io/sitemap.xml

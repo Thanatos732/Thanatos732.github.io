@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Thanatos的博客 | Thanatos's blog</title>
+        <link>https://Thanatos732.github.io/</link>
+        <description>这么活着太累了</description>
+        <lastBuildDate>Thu, 12 Dec 2024 14:57:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Thanatos的博客 | Thanatos's blog</title>
+            <url>https://cdn.jsdelivr.net/gh/Thanatos732/photos/avatar.png</url>
+            <link>https://Thanatos732.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © Thanatos</copyright>
+        <atom:link href="https://Thanatos732.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[galgameCG的提取]]></title>
+            <link>https://Thanatos732.github.io/posts/galgameCG的提取</link>
+            <guid>https://Thanatos732.github.io/posts/galgameCG的提取</guid>
+            <pubDate>Thu, 12 Dec 2024 14:56:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>这只是一个演示如何使用工具提取CG的文章，并不是专门的逆向教程</strong></p>
+<p><strong>本文中所提到的软件均为开源</strong></p>
+<h1>Garbro</h1>
+<p>[Garbro](<a href="https://github.com/morkt/">https://github.com/morkt/</a></p>
+<br/><p>访问 <a href="https://Thanatos732.github.io/posts/galgameCG的提取" target="_blank">https://Thanatos732.github.io/posts/galgameCG的提取</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Thanatos)</author>
+        </item>
+    </channel>
+</rss>
